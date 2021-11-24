@@ -6,6 +6,7 @@
   </h1>
 Download ffmpegbatch.zip, extract, then move the ffmpegbatch folder to your home dir $ ~/
 
+
 Run: Install_app.sh in Terminal and follow the prompts
 
 Once complete, move unextracted multitrack .mp4 into the 'in' folder, found within ffmpegbatch folder previously extracted
