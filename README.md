@@ -4,8 +4,7 @@
 <h1>
   How it works
   </h1>
-Download ffmpegbatch.zip, extract, then move the ffmpegbatch folder to your home dir $ ~/
-
+Download ffmpegbatch.zip, extract, then move the ffmpegbatch folder to your home dir ~/
 
 Run: Install_app.sh in Terminal and follow the prompts
 
