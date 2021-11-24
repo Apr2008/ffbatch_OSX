@@ -5,7 +5,7 @@
   How it works
   </h1>
   
-Download ffmpegbatch.zip, extract, then move the ffmpegbatch folder to your home dir
+Download ffmpegbatch.zip, extract, then move the ffmpegbatch folder to your home dir ~/
 
 
 Navigate to ~/ffmpegbatch and open it
